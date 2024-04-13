@@ -1,0 +1,1 @@
+Googleが公開している、[初めてのWebGPUアプリ](https://codelabs.developers.google.com/your-first-webgpu-app?hl=ja#1)に沿って、ライフログゲームを作成したメモ
